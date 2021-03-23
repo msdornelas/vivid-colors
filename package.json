@@ -1,0 +1,17 @@
+{
+  "name": "vivid-colors",
+  "version": "1.0.2",
+  "description": "A small set of bold and bright colors for your project.",
+  "main": "colors.js",
+  "keywords": [
+    "colors"
+  ],
+  "files": [
+    "colors.js"
+  ],
+  "author": {
+    "name": "Marcelo Dornelas",
+    "email": "marcelosantosdornelas@gmail.com"
+  },
+  "license": "ISC"
+}
